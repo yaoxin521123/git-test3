@@ -20,3 +20,5 @@ github push 6666
 github push 777
 
 github pull 888
+
+github push 9999
